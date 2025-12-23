@@ -1,0 +1,1 @@
+Crea una aplicació GUI en go, que mostri l'adreça IP pública que m'ha assignat el proveïdor d'Internet.
